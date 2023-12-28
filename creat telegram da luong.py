@@ -49,7 +49,7 @@ debug_mode = False
 
 
 folder_acc= 'Account done'
-password = 'Stella1234'
+password = ''
 
 email =''
 code_mail=''
@@ -62,7 +62,7 @@ port =''
 
 
 
-list_key_tinsoft = ['TLqH4v6VxIG07iczk2kw7konwCjsVrHfS2NfRn', 'TLE5Y9EAqc6ZYx0ExmQ8rHU8ezFkQRvbe9j9P0']
+list_key_tinsoft = ['']
 
 
 proc = subprocess.Popen('adb devices', shell=True, stdout=subprocess.PIPE, creationflags=CREATE_NO_WINDOW)
