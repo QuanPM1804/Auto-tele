@@ -34,10 +34,6 @@ from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedEr
 
 
 
-
-
-
-
 CREATE_NO_WINDOW = 0x08000000
 
 
